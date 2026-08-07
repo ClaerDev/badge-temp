@@ -1,2 +1,2 @@
 # badge-temp
-how to get badge of pull shark and pair 
+how to get badges of pull shark and pair 
